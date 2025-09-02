@@ -1,0 +1,77 @@
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+section {
+  padding: 2rem;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+.header-photo {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-height: 300px;   /* adjust if you want it taller/shorter */
+  object-fit: cover;
+}
+
+body {
+  font-family: Georgia Script, regular;
+  margin: 0;
+  line-height: 1.6;
+  background-color: #fdf8f4;  /* light beige background */
+  color: #333;                /* dark gray text */
+}
+
+header {
+  background: #87a7c1;  /* soft blue */
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background: #87a7c1;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+h1 {
+  font-family: 'Zapfino', cursive;
+  font-size: 2.0rem;
+  margin: 0.4rem 0;
+}
